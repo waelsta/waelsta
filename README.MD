@@ -8,8 +8,8 @@
 
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/wael-sta-66a684229#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/wael-sta-66a684229#gh-dark-mode-only)
+[![linkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/wael-sta-66a684229#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/wael-sta-66a684229#gh-dark-mode-only)
 
 ### Languages and Tools:
 
