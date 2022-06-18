@@ -1,15 +1,13 @@
 # Hi there, I'm Wael Sta 👋 
 ## I'm a Software Developer!!
 
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about advanced data structures
 
 
 ### Connect with me:
-[![linkedIn](./img/linkedin-brands.svg)](https://www.linkedin.com/in/wael-sta-66a684229)
-
+[![linkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/wael-sta-66a684229)
 
 ### Languages and Tools:
 
