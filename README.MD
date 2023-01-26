@@ -8,6 +8,7 @@
 - 🥅 2023 Goals: Learn more about advanced data structures and work on more projects
 
 ## 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=waelsta&theme=algolia" alt="waelsta"  /></p>
 
 ## 🛠️ My Skills
@@ -29,7 +30,8 @@
  </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Web Development
+
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -47,9 +49,18 @@
   <a href="https://styled-components.com/" target="_blank"> 
     <img alt="Styled-Components" src="https://img.shields.io/badge/styled components-%23007396.svg?logo=styled-components&logoColor=white"/>
   </a>
+   &emsp;
+  <a href="https://expressjs.org/en/" target="_blank"> 
+    <img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-%23007396.svg?logo=ExpressJs&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-%23007396.svg?logo=nodejs&logoColor=white"/>
+  </a>  
 </p>
 
 ### 👉 Databases & Cloud Hosting
+
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -67,8 +78,8 @@
     <a href="https://aws.amazon.com/fr/"><img alt="Firebase" src ="https://img.shields.io/badge/AWS-%23007396.svg?logo=amazon&logoColor=white"></a>
  </p>
 
- ### 👉 Software & Tools
- 
+### 👉 Software & Tools
+
 <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -79,4 +90,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%23007396.svg?logo=docker&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/Vim-%23007396.svg?logo=Vim&logoColor=white" ></a>
 </p>
